@@ -1,7 +1,7 @@
 var srcCalId = PropertiesService.getScriptProperties().getProperty("srcCalId");　　// 読み込み元Google Calendar ID
 var destCalId = PropertiesService.getScriptProperties().getProperty("destCalId"); // 同期先Google Calendar ID
 var startTime = new Date(2018,6,16); // 同期するイベントの対象開始日
-var endTime = new Date(2018, 7, 31); // 同期するイベントの対象終了日
+var endTime = new Date(2018,7,31); // 同期するイベントの対象終了日
 var destEventSubject = "イベントあり";　// 移行先のカレンダーに表示されるイベントタイトル（全部同じになる）
 
 function syncCal() {
