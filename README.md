@@ -29,4 +29,4 @@
 
 # others
 
-If you have any queries in English, don't hesitate to ask in the issues or you can contact me via twitter ([@tokifujp](https://twitter.com/tokifujp)) :)
+If you have any queries in English, don't hesitate to ask in the issues or you can contact me via twitter ([@tokifujp](https://twitter.com/tokifujp)) or see [README_EN.md](https://github.com/Tokifujp/sync-gc-gas-sample/blob/master/README_EN.md) :)
