@@ -18,7 +18,7 @@
 1. GASエディタで環境変数設定（`ファイル`→`プロジェクトのプロパティ`→`スクリプトのプロパティ`→`行の追加`）
     1. `srcCalId` : 読み込み元Google Calendar ID
     2. `destCalId` : 同期先Google Calendar ID
-2. GASエディタに`sample.js`ペースト
+2. GASエディタに[`src/index.js`](https://github.com/Tokifujp/sync-gc-gas-sample/blob/master/src/index.js)をペースト
 3. 必要に応じて設定
     1. `startTime` : 同期するイベントの対象開始日
     2. `endTime` : 同期するイベントの対象終了日
