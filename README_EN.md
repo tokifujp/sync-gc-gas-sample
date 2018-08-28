@@ -18,7 +18,7 @@ GAS Scrupt that Syncs Google Calendar to Google Calendar within specified range 
 1. Set Environment Varialbles via GAS Editor
     1. `srcCalId` : Source Google Calendar ID
     2. `destCalId` : Desitination Google Calendar ID
-2. Paste `sample.js`
+2. Paste [`src/index.js`](https://github.com/Tokifujp/sync-gc-gas-sample/blob/master/src/index.js)
 3. Set variables;
     1. `startTime` : Start Time of Source Calendar
     2. `endTime` : End Time of Source Calendar
